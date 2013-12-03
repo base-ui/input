@@ -1,0 +1,19 @@
+.ui.input {
+  border: 0;
+  outline: 0;
+  border-radius: 0;
+  margin-bottom: 5px;
+  background: transparent;
+  font-smoothing: antialiased;
+  border: 1px solid #bdc3c7;
+}
+.ui.input:focus {
+  outline: 0;
+  border-color: #a1a6a9;
+}
+input.ui.input {
+  appearance: none;
+  -ms-appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}

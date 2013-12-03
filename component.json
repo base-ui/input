@@ -1,0 +1,15 @@
+{
+  "name": "input",
+  "repo": "base-ui/input",
+  "description": "Base input",
+  "version": "0.0.1",
+  "paths": [],
+  "local": [],
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "css/input.css"
+  ]
+}
